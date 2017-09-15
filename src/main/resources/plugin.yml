@@ -1,0 +1,4 @@
+name: XorSkript
+version: ${project.version}
+main: net.xornick.xorskript.XorSkript
+depend: [Skript]
